@@ -1,4 +1,5 @@
 Model,Noise,Sample Size,Is_Biased_Sample,MSE,RMSE
+Linear Regression,high,50,FALSE,,
 Linear Regression,high,5000,FALSE,,
 Linear Regression,high,50000,FALSE,,
 Linear Regression,low,5000,FALSE,,
